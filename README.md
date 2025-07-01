@@ -1,7 +1,7 @@
 # 핸즈온 생성형 AI  
 
 핸즈온 생성형 AI githug입니다. 🤗   
-한글판 구입처 :  
+한글판 구입처 : 핸즈온 생성형 AI [한빛 홈페이지](https://www.hanbit.co.kr/store/books/look.php?p_code=B4758668189)  [교보문고](https://product.kyobobook.co.kr/detail/S000216912493)  [예스24](https://www.yes24.com/product/goods/148025270)  [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=366596768)  ㅎ
 원서 구입처 : [Hands-On Generative AI with Transformers and Diffusion Models](https://www.amazon.com/Hands-Generative-Transformers-Diffusion-Models/dp/1098149246). 
 
 <img alt="book-cover" height=200 src="https://learning.oreilly.com/covers/urn:orm:book:9781098149239/400w/" id="book-cover"/>
